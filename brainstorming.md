@@ -90,6 +90,8 @@
    - A comprehensive language learning platform that offers courses and resources for less commonly taught languages. Users can connect with language learners and teachers, participate in language exchange programs, and access specialized content tailored to their language learning needs.
 5. Location-Based Attendance App
    - An attendance-taking app for schools that utilizes location-based technology to confirm whether students are present in the classroom. Teachers can track attendance more accurately and efficiently, reducing the likelihood of errors and unauthorized absences.
+6. Travel Buddy App
+   -  A mobile application designed to connect solo travelers with compatible companions for shared adventures. By creating profiles and specifying travel preferences, users can find like-minded individuals based on interests, destinations, and travel dates. The app aims to enhance solo travel experiences by facilitating safe and enjoyable interactions between travelers, fostering friendships, and providing companionship during trips.
 
 
 ## Top 3 New App Ideas
@@ -141,3 +143,13 @@
    - **Market:** Targets schools and educational institutions seeking a more efficient and reliable method of tracking student attendance, particularly in large classrooms or campuses.
    - **Habit:** Teachers may engage with the app daily to record attendance for their classes, while students may use it at the beginning of each class session to confirm their presence.
    - **Scope:** V1 would include basic attendance-taking functionality using location-based services. V2 could introduce features like attendance analytics, notifications for absent students, and integration with school management systems.
+     
+6. Travel Buddy App
+   - **Description:** A social networking app designed to connect solo travelers with like-minded individuals for shared adventures, group trips, or simply companionship during travel. Users can create profiles, search for travel buddies based on interests and destinations, and plan trips together. Additionally, the app offers features for solo travelers to discover local experiences and connect with fellow travelers in real-time.
+   - **Category:** Social Networking / Travel
+   - **Mobile:** Essential for on-the-go access to connect with potential travel buddies and discover local experiences. GPS functionality allows users to find others nearby or in specific travel destinations.
+   - **Story:** Empowers solo travelers to find companionship and create meaningful connections while exploring new destinations, enhancing their travel experiences and safety.
+   - **Market:** Targets solo travelers seeking companionship and connections during their journeys, as well as individuals interested in meeting new people and sharing experiences while traveling.
+   - **Habit:** Users may engage with the app intermittently during trip planning phases or continuously to stay connected with travel buddies and discover local experiences during their journeys.
+   - **Scope:** V1 would focus on creating user profiles, searching for travel buddies, and basic trip planning features. V2 could incorporate additional features tailored for solo travelers, such as real-time meetup suggestions, safety tips, and community forums for sharing travel stories and advice.
+
