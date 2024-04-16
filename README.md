@@ -115,7 +115,7 @@ WordWhiz: "Chain of Words" is a fast-paced word game where the computer gives yo
 
 ## Wireframes
 
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="wireframe.jpg" width=600>
 
 ## Demo
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d776b226c6d94938be053cc3a811d66a?sid=f65ccb24-004b-471c-a37d-ef80204a6d17" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
