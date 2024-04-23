@@ -46,7 +46,7 @@ WordWhiz: "Chain of Words" is a fast-paced word game where the computer gives yo
 
 ### 2. Screen Archetypes
 
-- [ ] Home Screen
+- [X] Home Screen
   * Display a randomly generated letter
   * Allow the player to input a word starting with the given letter
   * Validate the word and display the computer-generated word
@@ -83,7 +83,7 @@ WordWhiz: "Chain of Words" is a fast-paced word game where the computer gives yo
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Home Screen
+- [X] Home Screen
   * Navigate to Leaderboard Screen when viewing leaderboard
   * Navigate to Settings Screen to adjust game settings
   * Navigate to Dictionary Screen to look up word definitions
@@ -118,7 +118,7 @@ WordWhiz: "Chain of Words" is a fast-paced word game where the computer gives yo
 <img src="wireframe.jpg" width=600>
 
 ## Demo
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d776b226c6d94938be053cc3a811d66a?sid=f65ccb24-004b-471c-a37d-ef80204a6d17" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/cb5e70e05fda4c74a66e887f0a474b7f?sid=7b0d93d7-e75e-4c9e-9888-fb6bf53e1edd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### [BONUS] Digital Wireframes & Mockups
 
