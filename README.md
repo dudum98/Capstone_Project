@@ -128,6 +128,10 @@ WordWhiz: "Chain of Words" is a fast-paced word game where the computer gives yo
 
 [This section will be completed in Unit 9]
 
+completed home page
+connected api to generate random words
+added the timer
+
 ### Models
 
 [Add table of models]
