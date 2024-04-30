@@ -89,25 +89,20 @@ WordWhiz: "Chain of Words" is a fast-paced word game where the computer gives yo
   * Navigate to Dictionary Screen to look up word definitions
   * Navigate to Levels Screen to select a game level
 
-- [ ] Leaderboard Screen
-  * Navigate to Home Screen to return to the main game interface
-  * Navigate to Settings Screen to adjust game settings
-  * Navigate to Dictionary Screen to look up word definitions
-  * Navigate to Levels Screen to select a game level
 
-- [ ] Settings Screen
+- [X] Settings Screen
   * Navigate to Home Screen to return to the main game interface
   * Navigate to Leaderboard Screen to view leaderboard
   * Navigate to Dictionary Screen to look up word definitions
   * Navigate to Levels Screen to select a game level
 
-- [ ] Dictionary Screen
+- [X] Dictionary Screen
   * Navigate to Home Screen to return to the main game interface
   * Navigate to Leaderboard Screen to view leaderboard
   * Navigate to Settings Screen to adjust game settings
   * Navigate to Levels Screen to select a game level
 
-- [ ] Levels Screen
+- [X] Levels Screen
   * Navigate to Home Screen to return to the main game interface
   * Navigate to Leaderboard Screen to view leaderboard
   * Navigate to Settings Screen to adjust game settings
@@ -118,11 +113,9 @@ WordWhiz: "Chain of Words" is a fast-paced word game where the computer gives yo
 <img src="wireframe.jpg" width=600>
 
 ## Demo
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/cb5e70e05fda4c74a66e887f0a474b7f?sid=7b0d93d7-e75e-4c9e-9888-fb6bf53e1edd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 44.895833333333336%; height: 0;"><iframe src="https://www.loom.com/embed/bf9a3694e8a84f059091f6ff98aafbe8?sid=670a3e38-43a3-4295-93ba-b0a4572fe399" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-### [BONUS] Digital Wireframes & Mockups
 
-### [BONUS] Interactive Prototype
 
 ## Schema 
 
@@ -131,13 +124,14 @@ WordWhiz: "Chain of Words" is a fast-paced word game where the computer gives yo
 completed home page
 connected api to generate random words
 added the timer
+added another api to get word definitions
+improved ui
 
 ### Models
 
 [Add table of models]
 
 ### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+ 
+- https://random-word-api.herokuapp.com/word : random words api
+- https://api.dictionaryapi.dev/api/v2/entries/en/\(word) : word definition api
