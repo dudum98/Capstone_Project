@@ -1,4 +1,4 @@
-WordWhiz 🔠
+WordWizard 🔠
 ===
 
 
@@ -27,7 +27,7 @@ WordWhiz: "Chain of Words" is a fast-paced word game where the computer gives yo
 
 ## Product Spec
 
-### 1. User Stories (Required and Optional)
+### 1. User Stories 
 
 **Required Must-have Stories**
 
@@ -116,20 +116,6 @@ WordWhiz: "Chain of Words" is a fast-paced word game where the computer gives yo
 <div style="position: relative; padding-bottom: 44.895833333333336%; height: 0;"><iframe src="https://www.loom.com/embed/bf9a3694e8a84f059091f6ff98aafbe8?sid=670a3e38-43a3-4295-93ba-b0a4572fe399" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-
-## Schema 
-
-[This section will be completed in Unit 9]
-
-completed home page
-connected api to generate random words
-added the timer
-added another api to get word definitions
-improved ui
-
-### Models
-
-[Add table of models]
 
 ### Networking
  
